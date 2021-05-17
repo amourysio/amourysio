@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... C++/Sql/MySql/Java ....
 - 🤔 I’m looking for help with ... improve Code.Skills
 - 💬 Ask me about ... new opportunities
-- 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/hussein-amouri-840738205)
+- 📫 How to reach me: ... [Linkedin Profile](in/hussein-amouri-840738205)
 - 😄 Pronouns: ... Huse
 - ⚡ Fun fact: ... Hello World :D
 -->
