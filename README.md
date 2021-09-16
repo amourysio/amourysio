@@ -1,13 +1,17 @@
-### Hi there 👋, Hussein Amouri
+### Hi there 👋 I am Hussein Amouri
 #### Student in IT Academy as a Full Stack Developer
 ![Student in IT Academy as a Full Stack Developer](https://github.com/amourysio/amourysio/blob/main/11.jpg)
 
 I am from Bulgaria, and I am a Student In IT Academy as a Full Stack Developer. I am a Motivated and hard-working Student working towards a B.S. in profile Software Development. Seeking to use my superior knowledge of programming in C++, C#, Java and my advanced Technology Skills to serve your company in an intern position. Dedicated, motivated, and committed to becoming a dependable and valuable team member.
 
-Skills: C++(OOP) / Sql / MySql / Java / Linux ...
+Skills: 
+*💻C++(OOP)
+*💾Sql
+*📀MySql
+*🖥Java
+*💻Linux
 
 - 🔭 I’m currently working on on my improvements 
-- 🌱 I’m currently learning C++(OOP) / Sql / MySql / Java 
 - 🤔 I’m looking for help with To improve my Code.Skills 
 - 💬 Ask me about new opportunities 
 - 😄 Pronouns: Hose 
