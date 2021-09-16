@@ -2,7 +2,7 @@
 
 I'm Hussein from Bulgaria, and i am a Student In IT Academy.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussein)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://https://github.com/amourysio/amourysio/blob/main/11.jpg)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **amourysio/amourysio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
