@@ -1,6 +1,6 @@
-### Hi there
+### Hi there 👋
 
-I'm Hussein from Bulgaria, and i am a Student In IT Academy 👋
+I'm Hussein from Bulgaria, and i am a Student In IT Academy.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hussein)](https://github.com/anuraghazra/github-readme-stats)
 <!--
