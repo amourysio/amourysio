@@ -10,7 +10,7 @@ I am from Bulgaria, and I am a Student In IT Academy as a Full Stack Developer. 
 * 📀 MySql
 * 🖥 Java
 * 💻 Linux
-
+## More Information
 - 🔭 I’m currently working on on my improvements 
 - 🤔 I’m looking for help with To improve my Code.Skills 
 - 💬 Ask me about new opportunities 
