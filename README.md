@@ -2,7 +2,7 @@
 
 I'm Hussein from Bulgaria, and i am a Student In IT Academy.
 
-https://github.com/amourysio/amourysio/blob/main/11.jpg
+https://github.com/amourysio/amourysio/blob/main/11.jpg?raw=true
 <!--
 **amourysio/amourysio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
