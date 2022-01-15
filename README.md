@@ -22,7 +22,7 @@ I am from Bulgaria 🇧🇬, and I am a Student In IT Academy as a Full Stack De
 * 💻 Git
 ## IDE & OS
 * 💽 Visual Studio
-* 💿IntelliJ IDEA
+* 💿 IntelliJ IDEA
 * 🖥️ Selenium WebDriver
 * 📀 Linux
 * 📀 Windows
