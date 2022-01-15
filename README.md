@@ -13,14 +13,19 @@ I am from Bulgaria 🇧🇬, and I am a Student In IT Academy as a Full Stack De
 ## Databases
 * 🧮 Sql
 * 🧮 MySql
+* 🧮 Access
+## Frameworks
+* ⌨️ .NET
 ## Technical Skills
 * 💻 MSOfficePack
-* 🖥️ Selenium WebDriver
 * 💻 IT Essentials Cisco
+* 💻 Git
 ## IDE & OS
 * 💽 Visual Studio
 * 💿IntelliJ IDEA
+* 🖥️ Selenium WebDriver
 * 📀 Linux
+* 📀 Windows
 ## More Information
 - 🔭 I’m currently working on on my improvements 
 - 🤔 I’m looking for help with To improve my Code.Skills 
