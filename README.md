@@ -2,7 +2,7 @@
 #### Student in IT Academy as a Full Stack Developer
 ![Student in IT Academy as a Full Stack Developer](https://github.com/amourysio/amourysio/blob/main/11.jpg)
 
-I am from Bulgaria 🇧🇬, and I am a Student In IT Academy as a Full Stack Developer. I am a Motivated and hard-working Student working towards a B.S. in profile Software Development. Seeking to use my superior knowledge of programming in C++, C#, Java and my advanced Technology Skills to serve your company in an intern position. Dedicated, motivated, and committed to becoming a dependable and valuable team member.
+Bulgarian Motivated and hard-working academy student working towards a B.S.(Bachelor of Science) in profile Software Development. Seeking to use my superior knowledge of programming in C++, C#, Python, Java and my advanced Technology Skills to serve your company in an intern or junior position. Dedicated, motivated, and committed to becoming a dependable and, valuable team member.
 
 
 ## Program Languages
